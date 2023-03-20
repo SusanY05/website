@@ -41,3 +41,6 @@ h3{
     cursor:pointer;
 }
 
+.btn:active{
+    transform: scale(0.98);
+}
