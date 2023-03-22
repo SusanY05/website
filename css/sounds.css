@@ -2,7 +2,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: rhb(161, 100, 233);
+    background-color: rgb(161, 100, 233);
     display: flex;
     align-items:center;
     justify-content: center;
@@ -25,5 +25,5 @@ body{
 
 .btn:hover{
     opacity: 0.9;
-    
+
 }
