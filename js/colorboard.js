@@ -7,7 +7,7 @@ for(let i = 0; i < SQUARES; i++) {
     square.classList.add('square')
     container.appendChild(square)
     square.addEventListener('mouseover', () => setColor(square))
-    square.addEventListener('mouseover', () => removeColor(square))
+    square.addEventListener('mouseout', () => removeColor(square))
 }
 
 
