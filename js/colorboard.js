@@ -12,7 +12,7 @@ for(let i = 0; i < SQUARES; i++) {
 
 
 function removeColor(element) {
-    element.style.background = #1d1d1d
+    element.style.background = 
 }
 
 function setColor(element) {
