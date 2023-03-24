@@ -16,3 +16,7 @@ function writeText() {
 
     setTimeout(writeText, speed)
 }
+
+speedEl.addeventListener('input', (e) => {
+    speed=300 / e.target.value
+})
