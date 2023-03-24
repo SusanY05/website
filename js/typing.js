@@ -18,5 +18,5 @@ function writeText() {
 }
 
 speedEl.addeventListener('input', (e) => {
-    speed=300 / e.target.value
+    speed = 300 / e.target.value
 })
