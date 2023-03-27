@@ -11,17 +11,4 @@ body{
 }
 
 
-.btn{
-    background-color: white;
-    border: 0;
-    cursor: pointer;
-    font-size: 24px;
-    position: relative;
-    top: 10;
-    left: 0;
-    height:100vh;
-    width: 30vh;
-    border-radius: 10%;
-    display:inline-block;
-}
 
