@@ -16,5 +16,11 @@ body{
     overflow:auto;
 }
 
+.icon-bar{
+    float:left;
+    text-align:center;
+    
+}
+
 
 
