@@ -8,6 +8,10 @@ body{
 
 .bg{
     background:url('https://www.pushengage.com/wp-content/uploads/2022/02/Best-Website-Welcome-Message-Examples.png')
+    no-repeat center center/cover;
+    width:100vw;
+    height:100vh;
+    position:absolute;
 }
 
 .icon-bar{
