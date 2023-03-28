@@ -6,20 +6,19 @@ body{
     background-color:#ffafbd;
     overflow-x: hidden;
     display: flex;
-    align-items: center;
-    justify-content:center;
 }
 
 .icon-bar{
-    width:100;
+    width:200;
     background-color:white;
     overflow:auto;
+    display:flex;
 }
 
 .icon-bar{
-    float:left;
+    float:right;
     text-align:center;
-    
+    width:20%;
 }
 
 
