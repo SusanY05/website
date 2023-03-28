@@ -4,22 +4,31 @@
 body{
     font-family: 'Lato', sans-serif;
     background-color:#ffafbd;
-    overflow-x: hidden;
     display: flex;
 }
 
 .icon-bar{
-    width:200;
+    width:200%;
     background-color:white;
     overflow:auto;
     display:flex;
 }
 
 .icon-bar{
-    float:right;
+    float:left;
     text-align:center;
     width:20%;
+    font-size:36px;
+    padding:12px 0;
+    transition:all 0.3s ease;
+    color:white;
 }
 
+.icon-bar a:hover{
+    background-color:yellow;
+}
 
+.active{
+    background-color:red;
+}
 
