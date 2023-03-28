@@ -10,5 +10,11 @@ body{
     justify-content:center;
 }
 
+.icon-bar{
+    width:100;
+    background-color:white;
+    overflow:auto;
+}
+
 
 
