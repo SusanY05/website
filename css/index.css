@@ -22,6 +22,7 @@ body{
     padding:12px 0;
     transition:all 0.3s ease;
     color:brown;
+
 }
 
 .icon-bar a:hover{
@@ -29,6 +30,6 @@ body{
 }
 
 .active{
-    background-color:red;
+    background-color:green;
 }
 
