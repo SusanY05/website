@@ -18,7 +18,7 @@ body{
 
 .icon-bar{
     width:100%;
-    background-color:yellow;
+    background-color:#555;
     overflow:auto;
     display:flex;
 }
