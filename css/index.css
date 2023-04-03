@@ -18,7 +18,7 @@ body{
 
 .icon-bar{
     width:100%;
-    background-color:#555;
+    background-color:#a8e6cf;
     overflow:auto;
     display:flex;
 }
@@ -30,16 +30,16 @@ body{
     font-size:36px;
     padding:12px 0;
     transition:all 0.3s ease;
-    color:white;
+    color:#ffaaa5;
     display:flex;
 
 }
 
 .icon-bar a:hover{
-    background-color:black;
+    background-color:#ffd3b6;
 }
 
 .active{
-    background-color:green;
+    background-color:#dcedc1;
 }
 
